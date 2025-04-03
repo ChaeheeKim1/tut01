@@ -17,14 +17,15 @@
 
 ## 간단한 코드 예시
 다음은 Python의 간단한 코드입니다.
-```
+```python
 def great(name):
   print(f"안녕하세요, {name}님!")
 greet("홍길동")
 ```
 ## 링크와 이미지
-Google로 가기 (https://www.markdownguide.org/)
+[Google로 가기] (https://www.google.com)
 귀여운 고양이 이미지:
+![귀여운 고양이](https://t3.ftcdn.net/jpg/01/04/40/06/360_F_104400672_zCaPIFbYT1dXdzN85jso7NV8M6uwpKtf.jpg)
 
 ## 할 일 목록
 - [x] 깃헙 계정 만들기
